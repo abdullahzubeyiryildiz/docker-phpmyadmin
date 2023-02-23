@@ -9,6 +9,7 @@ How to create phpmyadmin Docker. I have experienced Docker and I wanted to share
 ## closing the used port
     - lsof -i : "PORT"  
     - kill "PID" 
+    - docker-compose up -d
 
 ## What Have I Installed for This Docker
  
